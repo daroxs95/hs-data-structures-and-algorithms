@@ -1,0 +1,1 @@
+given a bunch of points for every point find its sibling to the left
